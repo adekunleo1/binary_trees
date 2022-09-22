@@ -1,117 +1,3 @@
-clear
-ls
-pwd
-cd alx-higher_level_programming/
-ls
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming ~/0x04-python-more_data_structures
-cd
-ls
-cd
-ls
-cd ..
-ls
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming ~/0x04-python-more_data_structures
-cd /root
-ls
-cd alx-higher_level_programming/
-ls
-cd 0x04-python-more_data_structures/
-ls
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming ~/0x04-python-more_data_structures
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/0x04-python-more_data_structures
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming 0x04-python-more_data_structures
-mv -i 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming
-ls
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root ~/alx-higher_level_programming ~/0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root/alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root/alx-higher_level_programming
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py ~/root alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root/ alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming 0x04-python-more_data_structures
-cd
-ls
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming
-mv 0-square_matrix_simple.py alx-higher_level_programming 0x04-python-more_data_structures
-cd ..
-ls
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming
-mv 0-square_matrix_simple.py mv 0-square_matrix_simple.py ~/root alx-higher_level_programming 0x04-python-more_data_structures
-mv 0-square_matrix_simple.py 103-python.c 11-multiply_list_map.py 7-update_dictionary.py root alx-higher_level_programming
-ls
-rm -r alx-higher_level_programming/
-ls
-cd /root
-git restore
-git --restore
-clear
-pwd
-cd /root
-cd root
-ls
-cd bin
-ls
-git pull
-cd
-cd ..
-ls
-ls -al ~/.
-ls -al ~/
-ls -al
-rm -rf
-ls
--restore-all
-sudo apt install testdisk_
-ls
-cd sbin
-ls
-clear
-cd ..
-git restore ../
-../
-ls -al --restore ../
-ls --help
-clear
-ls
-cd boot
-ls
-cd ..
-mkdir root
-ls
-cd /root
-ls
-pwd
-cd
-ls
-pwd
-cd ..
-ls
-sudo ext3grep –-restore-all /root
-ls -la
-clear
-ls
-cd /root
-git clone https://github.com/adekunleo1/alx-higher_level_programming.git
-ls
-https://github.com/adekunleo1/simple_shell.git
-gitxloe
-git clone https://github.com/adekunleo1/simple_shell.git
-git clone https://github.com/adekunleo1/alx-low_level_programming.git
-git clone https://github.com/adekunleo1/alx-zero_day.git
-git clone https://github.com/adekunleo1/printf.git
-git clone https://github.com/adekunleo1/alx-system_engineering-devops.git
-git clone https://github.com/adekunleo1/alx-pre_course.git
-ls
-git status
-git add .
-cd alx-higher_level_programming/
-ls
-0x04-python-more_data_structures/
-cd 0x04-python-more_data_structures/
-ls
-vi 0-square_matrix_simple.py 
 vi 11-mutiply_list_map.py 
 vi 7-update_dictionary.py 
 vi 103-python.c
@@ -417,4 +303,198 @@ vi id_rsa.pub
 ls
 cd
 wxit
+exit
+ls
+cd root
+ls
+git clone https://github.com/adekunleo1/AirBnB_clone.git
+la
+ls
+git add .
+git commit -m "repo"
+git push
+ls
+cd AirBnb_clone
+ls
+clear
+cd AirBnB_clone
+ls
+git status
+ls
+git branch
+git branch -a
+git pull
+ls
+ls
+cd models/
+ls
+cd ..
+ls
+clear
+ls
+ls
+git pull
+git remote set-url origin https://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@github.com/adekunleo1/AirBnB_clone.git
+git add .
+git commit -m "AirBnB"
+git push
+clear
+git branch
+git branch -a
+git checkout -b ade-one
+git remote set-url origin https://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@github.com/adekunleo1/AirBnB_clone.git
+ls
+clear
+ls
+ls
+cd
+ls
+cd ..
+exit
+ls
+cd roor
+cd roor
+cd root
+ls
+cd AirBnB_clone/
+ls
+rm -r tests/
+rm -r web_static/
+ls
+mkdir tests
+mkdir web_static
+ls
+clear
+ls
+cd tests/
+ls
+mkdir test_models
+ls
+touch __init__.py
+ls
+vi test_console.py
+clear
+ls
+cd test_models/
+mkdir test_engine
+ls
+cd test_engine/
+ls
+touch __init__.py
+ls
+vi test_file_storage.py
+cd ..
+clear
+ls
+touch __init__.pu
+rm -r __init__.pu 
+touch __init__.py
+vi test_amenity.py
+vi test_base_model.py
+vi test_city.py
+vi test_place.py
+vi test_review.py
+vi test_state.py
+vi test_user.py
+ls
+cd ..
+ls
+cd .x
+cd ..
+ls
+cd web_static/
+ls
+vi 0-index.html
+vi 1-index.html
+vi 2-index.html
+vi 3-index.html
+vi 4-index.html
+vi 5-index.html
+vi 6-index.html
+vi 7-index.html
+vi 7-index.html 
+vi 8-index.html
+clear
+ls
+cd
+ls
+cd AirBnB_clone/
+ls
+git add .
+git commit -m "test test models folders and files created"
+git push
+git push --set-upstream origin ade-one
+ls
+cd web_static/
+ls
+echo "AirBnB Peer Project" >> README.md
+ls
+vi README.md 
+vi cd
+rm -r cs
+rm -r cd
+ls
+clear
+cd ..
+ls
+rm -r web_static/
+ls
+cd models/
+ls
+vi amaenity.py 
+rm -r amaenity.py 
+vi amenity.py
+vi city.py 
+vi review.py 
+clear
+ls
+cd
+ls
+cd AirBnB_clone/
+ls
+git add .
+git commit -m "correction done on file name"
+git push
+ls
+cd models/
+ls
+vi city.py 
+vi amenity.py 
+ls
+vi review.py 
+vi user.py 
+vi base_model.py 
+git add .
+git commit -m "correction in files"
+git push
+clear
+cd
+exit
+ls
+cd root
+ls
+cd AirBnB_clone/
+ls
+cd web_static/
+ls
+git add .
+git commit -m "Web Static Tasks"
+git push
+clear
+exit
+exit
+ls
+cd root
+ls
+cd alx-pre_course/
+ls
+clear
+cd
+pwd
+ls
+c
+cd
+ls
+cd ..
+ls
 exit

@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1658881085,,"wq"
+|2,0,1663861967,,"wq"
+:Wq
+|2,0,1663860557,,"Wq"
 :wqq
-|2,0,1658630414,,"wqq"
+|2,0,1660164851,,"wqq"
 :WQ
 |2,0,1655560310,,"WQ"
 :@q
@@ -29,1086 +31,980 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	CHAR	0
+"1	CHAR	0
 	
 	
-|3,1,1,0,2,0,1658669576,"",""
+|3,0,1,0,2,0,1658669576,"",""
+""-	CHAR	0
+	c
+|3,1,36,0,1,0,1659903388,"c"
 
 # File marks:
-'0  1  569  ~/.ssh/id_rsa.pub
-|4,48,1,569,1658881085,"~/.ssh/id_rsa.pub"
-'1  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,49,1,579,1658880505,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'2  38  27  ~/.ssh/id_rsa
-|4,50,38,27,1658879350,"~/.ssh/id_rsa"
-'3  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,51,1,579,1658879253,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'4  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,52,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'5  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,53,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'6  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,54,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'7  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,55,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'8  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,56,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
-'9  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,57,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
+'0  6  38  ~/binary_trees/1-binary_tree_insert_left.c
+|4,48,6,38,1663861967,"~/binary_trees/1-binary_tree_insert_left.c"
+'1  6  38  ~/binary_trees/1-binary_tree_insert_left.c
+|4,49,6,38,1663861808,"~/binary_trees/1-binary_tree_insert_left.c"
+'2  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
+|4,50,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
+'3  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,51,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+'4  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,52,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+'5  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,53,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+'6  4  38  ~/binary_trees/111-bst_insert.c
+|4,54,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+'7  4  38  ~/binary_trees/112-array_to_bst.c
+|4,55,4,38,1663861092,"~/binary_trees/112-array_to_bst.c"
+'8  4  33  ~/binary_trees/113-bst_search.c
+|4,56,4,33,1663861042,"~/binary_trees/113-bst_search.c"
+'9  3  37  ~/binary_trees/114-bst_remove.c
+|4,57,3,37,1663860967,"~/binary_trees/114-bst_remove.c"
 
 # Jumplist (newest first):
--'  1  569  ~/.ssh/id_rsa.pub
-|4,39,1,569,1658881085,"~/.ssh/id_rsa.pub"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658880505,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658880505,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  38  27  ~/.ssh/id_rsa
-|4,39,38,27,1658879350,"~/.ssh/id_rsa"
--'  38  27  ~/.ssh/id_rsa
-|4,39,38,27,1658879350,"~/.ssh/id_rsa"
--'  38  27  ~/.ssh/id_rsa
-|4,39,38,27,1658879350,"~/.ssh/id_rsa"
--'  38  27  ~/.ssh/id_rsa
-|4,39,38,27,1658879350,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1658879324,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1658879324,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1658879324,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1658879324,"~/.ssh/id_rsa"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658879253,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658879253,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658879253,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  579  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,579,1658879253,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658879210,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-|4,39,1,0,1658875946,"~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  1  0  ~/sorting_algorithms/print_array.c
-|4,39,1,0,1658875066,"~/sorting_algorithms/print_array.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
--'  4  0  ~/sorting_algorithms/3-quick_sort.c
-|4,39,4,0,1658875033,"~/sorting_algorithms/3-quick_sort.c"
+-'  6  38  ~/binary_trees/1-binary_tree_insert_left.c
+|4,39,6,38,1663861967,"~/binary_trees/1-binary_tree_insert_left.c"
+-'  6  38  ~/binary_trees/1-binary_tree_insert_left.c
+|4,39,6,38,1663861808,"~/binary_trees/1-binary_tree_insert_left.c"
+-'  1  702  ~/binary_trees/1-binary_tree_insert_left.c
+|4,39,1,702,1663861730,"~/binary_trees/1-binary_tree_insert_left.c"
+-'  1  702  ~/binary_trees/1-binary_tree_insert_left.c
+|4,39,1,702,1663861730,"~/binary_trees/1-binary_tree_insert_left.c"
+-'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
+|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
+-'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
+|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
+-'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
+|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
+-'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
+|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
+|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  24  ~/binary_trees/11-binary_tree_size.c
+|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
+|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  4  38  ~/binary_trees/111-bst_insert.c
+|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/.ssh/id_rsa.pub
-	*	1658881074	0
-	"	1	569
-	^	1	570
-	.	1	570
-	+	1	570
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-	*	1658880502	0
-	"	1	579
-	^	1	580
-	.	2	0
-	+	1	0
-	+	1	579
-	+	2	0
-
-> ~/.ssh/id_rsa
-	*	1658879347	0
-	"	38	27
-	^	38	28
-
-> ~/sorting_algorithms/print_array.c
-	*	1658875051	0
-	"	1	0
-
-> ~/sorting_algorithms/3-quick_sort.c
-	*	1658875032	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	5	0
-	+	4	0
-
-> ~/sorting_algorithms/1-insertion_sort_list.c
-	*	1658874980	0
-	"	1	0
-	^	1	0
-	.	2	0
-	+	1	0
-	+	3	18
-	+	1	0
-	+	2	0
-
-> ~/sorting_algorithms/2-selection_sort.c
-	*	1658874915	0
-	"	1	0
-	^	1	0
-	.	2	0
-	+	35	2
+> ~/binary_trees/1-binary_tree_insert_left.c
+	*	1663861965	0
+	"	6	38
+	^	6	39
+	.	4	29
+	+	1	702
 	+	34	0
-	+	3	16
-	+	1	0
-	+	2	0
+	+	4	29
 
-> ~/sorting_algorithms/107-quick_sort_hoare.c
-	*	1658874842	0
-	"	3	0
-	^	3	0
-	.	4	0
-	+	1	19
-	+	2	18
-	+	4	0
+> ~/binary_trees/103-binary_tree_rotate_left.c
+	*	1663861336	0
+	"	6	17
+	^	6	18
+	.	4	32
+	+	29	0
+	+	4	32
 
-> ~/sorting_algorithms/106-bitonic_sort.c
-	*	1658874812	0
-	"	1	0
-	^	1	0
-	.	2	0
-	+	1	18
-	+	3	16
-	+	1	0
-	+	2	0
+> ~/binary_trees/104-binary_tree_rotate_right.c
+	*	1663861308	0
+	"	4	43
+	^	4	44
+	.	4	44
+	+	29	0
+	+	4	44
 
-> ~/sorting_algorithms/105-radix_sort.c
-	*	1658874738	0
-	"	3	16
-	^	3	17
-	.	3	0
-	+	1	1
-	+	4	0
-	+	1	19
-	+	3	0
+> ~/binary_trees/11-binary_tree_size.c
+	*	1663861259	0
+	"	1	24
+	^	1	25
+	.	5	25
+	+	35	0
+	+	25	37
+	+	5	25
 
-> ~/sorting_algorithms/104-heap_sort.c
-	*	1658874699	0
-	"	2	17
-	^	2	18
-	.	3	0
-	+	4	0
-	+	1	19
-	+	3	0
+> ~/binary_trees/110-binary_tree_is_bst.c
+	*	1663861200	0
+	"	1	23
+	^	1	24
+	.	5	23
+	+	35	0
+	+	25	36
+	+	5	23
 
-> ~/sorting_algorithms/103-merge_sort.c
-	*	1658874676	0
-	"	6	2
-	^	6	3
-	.	3	0
-	+	4	0
-	+	1	19
-	+	3	0
+> ~/binary_trees/111-bst_insert.c
+	*	1663861139	0
+	"	4	38
+	^	4	39
+	.	4	39
+	+	33	0
+	+	4	39
 
-> ~/sorting_algorithms/102-counting_sort.c
-	*	1658874595	0
-	"	1	0
+> ~/binary_trees/112-array_to_bst.c
+	*	1663861090	0
+	"	4	38
+	^	4	39
+	.	4	39
+	+	33	0
+	+	4	39
 
-> ~/sorting_algorithms/101-cocktail_sort_list.c
-	*	1658873704	0
-	"	2	17
-	^	2	18
-	.	3	0
-	+	4	0
-	+	1	19
-	+	3	0
+> ~/binary_trees/113-bst_search.c
+	*	1663861037	0
+	"	4	33
+	^	4	34
+	.	4	34
+	+	22	0
+	+	4	34
 
-> ~/sorting_algorithms/1000-sort_deck.c
-	*	1658873596	0
-	"	3	17
-	^	3	18
+> ~/binary_trees/114-bst_remove.c
+	*	1663860965	0
+	"	3	37
+	^	9	45
+	.	9	45
+	+	99	0
+	+	87	30
+	+	66	40
+	+	22	30
+	+	9	45
 
-> ~/sorting_algorithms/100-shell_sort.c
-	*	1658835945	0
-	"	1	0
-	^	1	0
+> ~/binary_trees/115-O
+	*	1663860855	0
+	"	3	8
+	^	3	9
+	.	3	9
+	+	3	9
 
-> /sorting_algorithms/test/0.main.c
-	*	1658832959	0
-	"	1	0
+> ~/binary_trees/12-binary_tree_leaves.c
+	*	1663860812	0
+	"	4	67
+	^	4	68
+	.	4	39
+	+	19	0
+	+	4	39
 
-> ~/sorting_algorithms/README.md
-	*	1658832107	0
-	"	36	65
-	^	36	66
-	.	36	50
-	+	71	29
-	+	67	118
-	+	8	210
-	+	2	0
-	+	10	12
-	+	44	55
-	+	12	0
-	+	10	2
-	+	13	26
-	+	15	2
-	+	18	20
-	+	44	57
-	+	42	21
-	+	36	56
-	+	5	0
-	+	3	0
-	+	4	221
-	+	4	99
-	+	36	50
+> ~/binary_trees/120-binary_tree_is_avl.c
+	*	1663860760	0
+	"	1	24
+	^	1	25
+	.	9	35
+	+	65	0
+	+	55	45
+	+	28	40
+	+	9	35
 
-> /sorting_algorithms/README.md
-	*	1658831878	0
-	"	7	0
-	^	7	0
-	.	39	56
-	+	39	56
+> ~/binary_trees/121-avl_insert.c
+	*	1663860557	0
+	"	1	24
+	^	1	25
+	.	11	28
+	+	111	0
+	+	92	25
+	+	41	30
+	+	30	21
+	+	11	28
 
-> ~/sorting_algorithms/select
-	*	1658831389	0
-	"	1	0
+> ~/binary_trees/122-array_to_avl.c
+	*	1663860430	0
+	"	4	30
+	^	4	31
+	.	4	31
+	+	33	0
+	+	4	31
 
-> ~/sorting_algorithms/AUTHOR
-	*	1658831381	0
-	"	5	32
-	^	5	33
-	.	2	14
-	+	5	37
-	+	1	34
-	+	2	14
+> ~/binary_trees/125-O
+	*	1663860358	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
 
-> ~/sorting_algorithms/.git/MERGE_MSG
-	*	1658705177	0
-	"	1	0
-
-> /sorting_algorithms/3-O
-	*	1658701988	0
-	"	1	0
-
-> /sorting_algorithms/3-quick_sort.c
-	*	1658701540	0
-	"	73	0
-	^	1	0
-
-> ~/sorting_algorithms/2-O
-	*	1658700099	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
-
-> ~/sorting_algorithms/1-O
-	*	1658698802	0
-	"	1	0
-
-> ~/sorting_algorithms/0-bubble_sort.c
-	*	1658696985	0
-	"	35	0
-	^	24	0
-	.	34	21
-	+	1	2
-	+	12	28
-	+	24	22
-	+	18	3
-	+	34	21
-
-> ~/sorting_algorithms/0-O
-	*	1658696932	0
-	"	1	0
-
-> ~/sorting_algorithms/bubble
-	*	1658630438	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x05-python-exceptions/102-magic_calculation.py
-	*	1655875930	0
-	"	12	20
-	^	12	21
-	.	12	20
-	+	12	20
-
-> ~/alx-higher_level_programming/0x05-python-exceptions/101-safe_function.py
-	*	1655875898	0
-	"	12	20
-	^	12	21
-	.	12	20
-	+	12	20
-
-> ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
-	*	1655875811	0
-	"	11	15
-	^	11	16
-	.	11	15
-	+	11	15
-
-> ~/alx-higher_level_programming/0x06-python-classes/100-singly_linked_list.py
-	*	1655875537	0
-	"	76	14
-	^	76	15
-	.	44	14
-	+	1	34
-	+	1	111
-	+	1	251
-	+	1	288
-	+	1	340
-	+	1	368
-	+	1	488
-	+	1	660
-	+	1	776
-	+	1	992
-	+	1	1104
-	+	1	1219
-	+	1	1340
-	+	1	1443
-	+	1	1446
-	+	1	1485
-	+	1	1517
-	+	1	2087
-	+	1	311
-	+	1	315
-	+	1	308
-	+	1	248
-	+	1	308
-	+	1	334
-	+	1	1444
-	+	1	1506
-	+	1	1514
-	+	76	33
-	+	2	6
-	+	6	9
-	+	1	17
-	+	9	14
-	+	19	14
-	+	30	14
-	+	41	10
-	+	44	14
-
-> ~/alx-higher_level_programming/0x06-python-classes/6-square.py
-	*	1655875306	0
-	"	58	10
-	^	58	11
-	.	45	11
-	+	1	52
-	+	1	98
-	+	1	205
-	+	1	258
-	+	1	327
-	+	1	343
-	+	1	271
-	+	1	193
-	+	1	471
-	+	1	835
-	+	1	499
-	+	1	867
-	+	1	1187
-	+	1	1341
-	+	1	1451
-	+	1	1799
-	+	1	218
-	+	1	284
-	+	1	292
-	+	1	300
-	+	58	20
-	+	2	19
-	+	6	23
-	+	9	14
-	+	11	36
-	+	12	51
-	+	19	11
-	+	45	11
-
-> ~/alx-higher_level_programming/0x06-python-classes/103-magic_class.py
-	*	1655875168	0
-	"	26	43
-	^	26	44
-	.	26	43
-	+	1	37
-	+	1	103
-	+	1	114
-	+	1	150
-	+	1	225
-	+	1	261
-	+	1	310
-	+	1	547
-	+	1	673
-	+	26	43
-
-> ~/alx-higher_level_programming/0x06-python-classes/5-square.py
-	*	1655874565	0
-	"	1	16
-	^	1	17
-	.	33	27
-	+	2	34
-	+	6	23
-	+	9	27
-	+	11	36
-	+	17	25
-	+	23	54
-	+	29	54
-	+	17	55
-	+	33	27
-
-> ~/alx-higher_level_programming/0x06-python-classes/101-square.py
-	*	1655874469	0
-	"	1	17
-	^	69	19
-	.	61	16
-	+	2	19
-	+	6	23
-	+	9	25
-	+	11	36
-	+	12	50
-	+	14	24
-	+	17	13
-	+	19	55
-	+	24	38
-	+	32	27
-	+	49	17
-	+	45	16
-	+	49	16
-	+	61	16
-
-> ~/alx-higher_level_programming/0x06-python-classes/102-square.py
-	*	1655874446	0
-	"	12	7
-	^	12	8
-	.	12	8
-	+	2	19
-	+	6	12
-	+	9	53
-	+	11	26
-	+	11	54
-	+	16	19
-	+	17	27
-	+	29	27
-	+	33	42
-	+	14	0
-	+	11	39
-	+	15	13
-	+	17	55
-	+	29	54
-	+	34	42
-	+	39	0
-	+	48	0
-	+	53	29
-	+	45	29
-	+	46	30
-	+	45	29
-	+	53	41
-	+	49	40
-	+	53	16
-	+	49	16
-	+	45	12
-	+	47	0
-	+	49	12
-	+	53	13
-	+	41	14
-	+	37	14
-	+	33	14
-	+	37	44
-	+	41	43
-	+	33	36
-	+	11	23
-	+	9	51
-	+	2	34
-	+	11	49
-	+	12	8
-
-> ~/alx-higher_level_programming/0x06-python-classes/4-square.py
-	*	1655873494	0
-	"	29	27
-	^	29	28
-	.	30	28
-	+	2	34
-	+	3	0
-	+	6	24
-	+	9	27
-	+	11	36
-	+	17	55
-	+	29	27
-	+	30	28
-
-> ~/alx-higher_level_programming/0x06-python-classes/4-
-	*	1655873465	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x06-python-classes/3-square.py
-	*	1655873449	0
-	"	20	56
-	^	20	57
-	.	20	15
-	+	2	34
-	+	6	23
-	+	9	28
-	+	11	36
-	+	14	38
-	+	15	22
-	+	20	15
-
-> ~/alx-higher_level_programming/0x06-python-classes/2-square.py
-	*	1655871298	0
-	"	16	37
-	^	16	38
-	.	11	36
-	+	2	35
-	+	6	24
-	+	9	27
-	+	11	36
-
-> ~/alx-higher_level_programming/0x06-python-classes/1-square.py
-	*	1655871160	0
-	"	11	36
-	^	11	37
-	.	11	36
-	+	2	18
-	+	6	23
-	+	2	19
-	+	9	44
-	+	2	34
-	+	11	36
-
-> ~/alx-higher_level_programming/0x06-python-classes/0-square.py
-	*	1655871050	0
-	"	6	21
-	^	6	22
+> ~/binary_trees/13-binary_tree_nodes.c
+	*	1663860326	0
+	"	6	20
+	^	6	21
 	.	6	21
-	+	2	18
-	+	3	0
-	+	2	30
+	+	26	0
+	+	4	36
 	+	6	21
 
-> /monty/README.md
-	*	1655563526	0
-	"	1	0
-	^	1	0
-	.	78	59
-	+	78	59
+> ~/binary_trees/135-O
+	*	1663860266	0
+	"	1	8
+	^	1	9
+	.	3	8
+	+	3	8
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/README.md
-	*	1655560313	0
-	"	1	28
-	^	1	29
-	.	1	29
-	+	1	29
+> ~/binary_trees/14-binary_tree_balance.c
+	*	1663860194	0
+	"	1	24
+	^	1	25
+	.	4	27
+	+	38	0
+	+	22	40
+	+	4	27
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.so
-	*	1655559279	0
-	"	1	0
+> ~/binary_trees/15-binary_tree_is_full.c
+	*	1663860128	0
+	"	4	62
+	^	4	63
+	.	4	33
+	+	19	0
+	+	4	33
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
-	*	1655559256	0
-	"	1	0
+> ~/binary_trees/16-binary_tree_is_perfect.c
+	*	1663860064	0
+	"	2	29
+	^	2	30
+	.	5	29
+	+	28	0
+	+	5	29
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/main.h
-	*	1655558941	0
-	"	6	0
-	^	6	0
-	.	6	0
-	+	1	735
-	+	1	792
-	+	26	18
+> ~/binary_trees/17-binary_tree_sibling.c
+	*	1663859971	0
+	"	4	31
+	^	4	32
+	.	4	32
+	+	19	0
+	+	4	32
+
+> ~/binary_trees/18-binary_tree_uncle.c
+	*	1663859915	0
+	"	6	26
+	^	6	27
+	.	4	26
+	+	21	0
+	+	4	26
+
+> ~/binary_trees/2-binary_tree_insert_right.c
+	*	1663859842	0
+	"	8	2
+	^	8	3
+	.	4	39
+	+	38	0
+	+	4	39
+
+> ~/binary_trees/3-binary_tree_delete.c
+	*	1663859776	0
+	"	4	32
+	^	4	33
+	.	4	33
+	+	15	0
+	+	4	33
+
+> ~/binary_trees/4-binary_tree_is_leaf.c
+	*	1663859723	0
+	"	4	36
+	^	4	37
+	.	4	28
+	+	15	0
+	+	4	28
+
+> ~/binary_trees/5-binary_tree_is_root.c
+	*	1663859666	0
+	"	6	35
+	^	6	36
+	.	4	30
+	+	15	0
+	+	4	30
+
+> ~/binary_trees/6-binary_tree_preorder.c
+	*	1663859576	0
+	"	6	22
+	^	6	23
+	.	4	37
+	+	16	0
+	+	4	37
+
+> ~/binary_trees/7-binary_tree_inorder.c
+	*	1663859521	0
+	"	11	28
+	^	11	29
+	.	4	36
+	+	16	0
+	+	4	36
+
+> ~/binary_trees/8-binary_tree_postorder.c
+	*	1663859463	0
+	"	4	37
+	^	4	38
+	.	4	38
+	+	16	0
+	+	4	38
+
+> ~/binary_trees/9-binary_tree_height.c
+	*	1663859351	0
+	"	5	17
+	^	5	18
+	.	4	34
+	+	18	0
+	+	4	34
+
+> ~/binary_trees/101-binary_tree_levelorder.c
+	*	1663858502	0
+	"	11	59
+	^	11	60
+	.	11	22
+	+	122	0
+	+	101	31
+	+	103	18
+	+	104	10
+	+	32	21
+	+	11	22
+
+> ~/binary_trees/102-binary_tree_is_complete.c
+	*	1663858339	0
+	"	10	39
+	^	10	40
+	.	6	22
+	+	37	0
+	+	6	22
+
+> ~/binary_trees/100-binary_trees_ancestor.c
+	*	1663858246	0
+	"	6	18
+	^	6	19
+	.	6	30
+	+	32	0
+	+	4	34
+	+	5	29
+	+	6	30
+
+> ~/binary_trees/0-binary_tree_node.c
+	*	1663858127	0
+	"	7	27
+	^	7	20
+	.	7	19
+	+	23	0
+	+	4	25
+	+	7	19
+
+> ~/binary_trees/10-binary_tree_depth.c
+	*	1663858058	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	16	0
+
+> ~/binary_trees/binary_trees.h
+	*	1663857887	0
+	"	94	28
+	^	94	29
+	.	94	28
+	+	94	28
+
+> ~/binary_trees/README.md
+	*	1663857712	0
+	"	1	13
+	^	1	14
+	.	2	0
+	+	1	14
+	+	184	20
 	+	2	0
-	+	7	0
-	+	6	0
 
-> /test/files/main.h
-	*	1655558845	0
-	"	28	0
-	^	28	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
-	*	1655558660	0
-	"	1	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/_putchar.c
-	*	1655558632	0
-	"	1	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/0-isupper.c
-	*	1655557912	0
-	"	1	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strstr.c
-	*	1655408427	0
-	"	31	0
-	^	31	1
-	.	31	0
-	+	31	0
-
-> /alx-low_level_programming/0x18-dynamic_libraries/main.h
-	*	1655408089	0
-	"	11	0
-	^	11	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/101-make_me_win.sh
-	*	1655403140	0
-	"	2	55
-	^	2	55
-	.	2	54
-	+	3	36
-	+	2	54
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/liball.so
-	*	1655365989	0
-	"	1	0
-	^	1	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-	*	1655365521	0
-	"	3	27
-	^	3	28
-	.	3	27
-	+	3	27
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/100-make_me_win.sh
-	*	1655365403	0
-	"	3	36
-	^	3	37
-	.	2	54
-	+	2	122
-	+	2	54
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/abs.c
-	*	1655365286	0
+> ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
+	*	1663853794	0
 	"	14	0
 	^	14	1
-	.	14	0
-	+	14	0
+	.	8	10
+	+	1	35
+	+	36	0
+	+	5	29
+	+	7	13
+	+	8	10
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/atoi.c
-	*	1655365247	0
-	"	51	0
-	^	51	1
-	.	51	0
-	+	51	0
+> ~/AirBnB_clone/web_static/0-index.html
+	*	1660556922	0
+	"	16	4
+	^	16	7
+	.	16	6
+	+	16	6
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/isalpha.c
-	*	1655365198	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/103-max_state.sql
+	*	1660165097	0
+	"	2	11
+	^	2	0
+	.	2	0
+	+	2	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/isdigit.c
-	*	1655365165	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/102-top_city.sql
+	*	1660165038	0
+	"	3	24
+	^	3	25
+	.	3	0
+	+	1	34
+	+	2	0
+	+	3	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/islower.c
-	*	1655365105	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/101-avg_temperatures.sql
+	*	1660164997	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	0
+	+	1	31
+	+	2	0
+	+	1	34
+	+	2	35
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/isupper.c
-	*	1655365062	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/100-move_to_utf8.sql
+	*	1660164956	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/memcpy.c
-	*	1655364949	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/12-no_cheating.sql
+	*	1660164912	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/memset.c
-	*	1655364910	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/16-no_link.sql
+	*	1660164851	0
+	"	1	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/putchar.c
-	*	1655364878	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/15-groups.sql
+	*	1660164833	0
+	"	1	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/puts.c
-	*	1655364849	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	15	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/14-average.sql
+	*	1660164826	0
+	"	1	8
+	^	1	9
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strcat.c
-	*	1655364816	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/13-change_class.sql
+	*	1660164801	0
+	"	1	45
+	^	1	46
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strchr.c
-	*	1655364778	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/11-best_score.sql
+	*	1660163920	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
 
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strcmp.c
-	*	1655364724	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strcpy.c
-	*	1655364689	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strlen.c
-	*	1655364657	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strncat.c
-	*	1655364619	0
-	"	31	0
-	^	31	1
-	.	31	0
-	+	31	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strncpy.c
-	*	1655364572	0
-	"	33	0
-	^	33	1
-	.	33	0
-	+	33	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strpbrk.c
-	*	1655364539	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	24	0
-
-> ~/alx-low_level_programming/0x18-dynamic_libraries/strspn.c
-	*	1655364497	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-	*	1654928713	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	6
-	+	1	5
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-	*	1654927492	0
-	"	43	0
-	^	43	1
-	.	43	0
-	+	43	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
-	*	1654927440	0
-	"	42	0
-	^	42	1
-	.	42	0
-	+	42	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
-	*	1654927385	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c
-	*	1654927333	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	21	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c
-	*	1654927284	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/3-add_dnodeint_end.c
-	*	1654927230	0
-	"	37	0
-	^	37	1
-	.	37	0
-	+	37	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/2-add_dnodeint.c
-	*	1654927188	0
-	"	28	0
-	^	28	1
-	.	28	1
-	+	28	1
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-	*	1654927132	0
-	"	53	0
-	^	53	1
-	.	53	0
-	+	53	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-	*	1654927014	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/1-dlistint_len.c
-	*	1654926849	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	21	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/0-print_dlistint.c
-	*	1654926681	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-	*	1654926595	0
-	"	32	17
-	^	32	18
-	.	32	17
-	+	32	17
-
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py
-	*	1654926017	0
-	"	5	50
-	^	5	51
-	.	5	50
-	+	1	62
-	+	1	18
-	+	1	113
-	+	1	18
-	+	5	50
-
-> ~/alx-pre_course/0x01-git/school
-	*	1654924304	0
-	"	2	16
-	^	2	17
-	.	2	17
-	+	2	17
-
-> ~/alx-pre_course/0x01-git/alx
-	*	1654924253	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/10-top_score.sql
+	*	1660163903	0
 	"	2	16
 	^	2	17
 	.	2	16
 	+	2	16
 
-> ~/alx-pre_course/0x01-git/.gitignore
-	*	1654924020	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/9-full_creation.sql
+	*	1660163859	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/8-count_89.sql
+	*	1660163835	0
 	"	1	0
-	^	1	1
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/7-insert_value.sql
+	*	1660163823	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	2	0
+	+	3	0
+	+	4	0
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/6-list_values.sql
+	*	1660163788	0
+	"	1	0
+	^	1	0
 	.	1	0
 	+	1	0
 
-> ~/alx-pre_course/0x01-git/up_to_date
-	*	1654923982	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	1	7
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/5-full_table.sql
+	*	1660163735	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
 
-> ~/root/0x01-git
-	*	1654922792	0
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/4-first_table.sql
+	*	1660163714	0
+	"	1	55
+	^	1	56
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/3-list_tables.sql
+	*	1660163693	0
+	"	1	18
+	^	1	19
+	.	1	19
+	+	1	19
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/2-remove_database.sql
+	*	1660163667	0
+	"	1	42
+	^	1	43
+	.	1	11
+	+	1	11
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/1-create_database_if_missing.sql
+	*	1660163442	0
+	"	2	9
+	^	2	10
+
+> ~/alx-higher_level_programming/0x0D-SQL_introduction/0-list_databases.sql
+	*	1660163418	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	18
+	+	2	8
+	+	2	14
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/103-rating_genres.sql
+	*	1660159348	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/102-rating_shows.sql
+	*	1660159323	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/101-not_a_comedy.sql
+	*	1660159302	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/100-not_my_genres.sql
+	*	1660159259	0
+	"	1	3
+	^	1	4
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/15-comedy_only.sql
+	*	1660159225	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/14-my_genres.sql
+	*	1660159182	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/13-count_shows_by_genre.sql
+	*	1660159162	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/12-no_genre.sql
+	*	1660159130	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/11-genre_id_all_shows.sql
+	*	1660159109	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/10-genre_id_by_show.sql
+	*	1660159088	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/10
+	*	1660159058	0
 	"	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
-	*	1654833252	0
-	"	66	0
-	^	66	1
-	.	66	0
-	+	66	0
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/9-cities_by_state_join.sql
+	*	1660159043	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
-	*	1654833179	0
-	"	4	24
-	^	4	25
-	.	4	24
-	+	4	24
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/8-cities_of_california_subquery.sql
+	*	1660158999	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
-	*	1654832988	0
-	"	3	63
-	^	3	64
-	.	3	63
-	+	3	63
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/7-cities.sql
+	*	1660158977	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/6-states.sql
+	*	1660158955	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/5-unique_id.sql
+	*	1660158928	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/4-never_empty.sql
+	*	1660158898	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/3-force_name.sql
+	*	1660158880	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/2-create_read_user.sql
+	*	1660158830	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/1-create_user.sql
+	*	1660158793	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x0E-SQL_more_queries/0-privileges.sql
+	*	1660158189	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/AirBnB_clone/models/base_model.py
+	*	1659905386	0
+	"	1	0
+
+> ~/AirBnB_clone/models/user.py
+	*	1659905375	0
+	"	1	0
+
+> ~/AirBnB_clone/models/review.py
+	*	1659905359	0
+	"	1	0
+
+> ~/AirBnB_clone/models/amenity.py
+	*	1659905347	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	229
+	+	1	0
+
+> ~/AirBnB_clone/models/city.py
+	*	1659905323	0
+	"	1	0
+
+> ~/AirBnB_clone/models/amaenity.py
+	*	1659904918	0
+	"	1	0
+
+> ~/AirBnB_clone/web_static/cd
+	*	1659904794	0
+	"	1	0
+
+> ~/AirBnB_clone/web_static/README.md
+	*	1659904652	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/AirBnB_clone/web_static/8-index.html
+	*	1659903773	0
+	"	91	10
+	^	91	11
+	.	35	20
+	+	142	6
+	+	22	26
+	+	25	20
+	+	28	20
+	+	27	16
+	+	32	15
+	+	34	15
+	+	35	20
+
+> ~/AirBnB_clone/web_static/7-index.html
+	*	1659903512	0
+	"	73	6
+	^	73	7
+	.	35	34
+	+	73	6
+	+	11	16
+	+	27	29
+	+	25	27
+	+	22	30
+	+	32	22
+	+	34	35
+	+	35	34
+
+> ~/AirBnB_clone/web_static/6-index.html
+	*	1659903109	0
+	"	1	6
+	^	1	7
+	.	60	6
+	+	60	6
+
+> ~/AirBnB_clone/web_static/5-index.html
+	*	1659903062	0
+	"	38	6
+	^	38	7
+	.	38	6
+	+	38	6
+
+> ~/AirBnB_clone/web_static/4-index.html
+	*	1659903030	0
+	"	30	6
+	^	30	7
+	.	30	6
+	+	30	6
+
+> ~/AirBnB_clone/web_static/3-index.html
+	*	1659903003	0
+	"	22	6
+	^	22	7
+	.	22	6
+	+	22	6
+
+> ~/AirBnB_clone/web_static/2-index.html
+	*	1659902972	0
+	"	19	6
+	^	19	7
+	.	19	6
+	+	19	6
+
+> ~/AirBnB_clone/web_static/1-index.html
+	*	1659902922	0
+	"	22	6
+	^	22	7
+	.	22	6
+	+	22	6
+
+> ~/AirBnB_clone/tests/test_models/test_user.py
+	*	1659902745	0
+	"	1	17
+	^	1	18
+	.	117	42
+	+	117	42
+
+> ~/AirBnB_clone/tests/test_models/test_state.py
+	*	1659902689	0
+	"	1	17
+	^	1	18
+	.	99	43
+	+	99	43
+
+> ~/AirBnB_clone/tests/test_models/test_review.py
+	*	1659902632	0
+	"	1	17
+	^	1	18
+	.	111	44
+	+	111	44
