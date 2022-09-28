@@ -10,19 +10,32 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1663861967,,"wq"
+|2,0,1664384064,,"wq"
 :Wq
-|2,0,1663860557,,"Wq"
+|2,0,1664383978,,"Wq"
+:W
+|2,0,1664374260,,"W"
 :wqq
-|2,0,1660164851,,"wqq"
+|2,0,1664275823,,"wqq"
+:w
+|2,0,1664227424,,"w"
+:qa
+|2,0,1664102016,,"qa"
+:wq!
+|2,0,1663897344,,"wq!"
 :WQ
 |2,0,1655560310,,"WQ"
 :@q
 |2,0,1654927119,,"@q"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1664101971,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -31,980 +44,1038 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	CHAR	0
+	c
+|3,1,0,0,1,0,1664101978,"c"
 "1	CHAR	0
 	
 	
 |3,0,1,0,2,0,1658669576,"",""
-""-	CHAR	0
+"-	CHAR	0
 	c
-|3,1,36,0,1,0,1659903388,"c"
+|3,0,36,0,1,0,1659903388,"c"
 
 # File marks:
-'0  6  38  ~/binary_trees/1-binary_tree_insert_left.c
-|4,48,6,38,1663861967,"~/binary_trees/1-binary_tree_insert_left.c"
-'1  6  38  ~/binary_trees/1-binary_tree_insert_left.c
-|4,49,6,38,1663861808,"~/binary_trees/1-binary_tree_insert_left.c"
-'2  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
-|4,50,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
-'3  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,51,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
-'4  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,52,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
-'5  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,53,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
-'6  4  38  ~/binary_trees/111-bst_insert.c
-|4,54,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
-'7  4  38  ~/binary_trees/112-array_to_bst.c
-|4,55,4,38,1663861092,"~/binary_trees/112-array_to_bst.c"
-'8  4  33  ~/binary_trees/113-bst_search.c
-|4,56,4,33,1663861042,"~/binary_trees/113-bst_search.c"
-'9  3  37  ~/binary_trees/114-bst_remove.c
-|4,57,3,37,1663860967,"~/binary_trees/114-bst_remove.c"
+'0  1  9  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,48,1,9,1664384064,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+'1  11  0  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,49,11,0,1664383980,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+'2  11  0  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,50,11,0,1664383980,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+'3  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,51,1,0,1664383237,"~/AirBnB_clone/.git/MERGE_MSG"
+'4  2  0  ~/AirBnB_clone/web_static/images/image
+|4,52,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+'5  2  0  ~/AirBnB_clone/web_static/images/image
+|4,53,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+'6  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,54,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+'7  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,55,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+'8  102  22  ~/AirBnB_clone/web_static/styles/101-places.css
+|4,56,102,22,1664373206,"~/AirBnB_clone/web_static/styles/101-places.css"
+'9  1  0  ~/AirBnB_clone/web_static/styles/100-places.css
+|4,57,1,0,1664370210,"~/AirBnB_clone/web_static/styles/100-places.css"
 
 # Jumplist (newest first):
--'  6  38  ~/binary_trees/1-binary_tree_insert_left.c
-|4,39,6,38,1663861967,"~/binary_trees/1-binary_tree_insert_left.c"
--'  6  38  ~/binary_trees/1-binary_tree_insert_left.c
-|4,39,6,38,1663861808,"~/binary_trees/1-binary_tree_insert_left.c"
--'  1  702  ~/binary_trees/1-binary_tree_insert_left.c
-|4,39,1,702,1663861730,"~/binary_trees/1-binary_tree_insert_left.c"
--'  1  702  ~/binary_trees/1-binary_tree_insert_left.c
-|4,39,1,702,1663861730,"~/binary_trees/1-binary_tree_insert_left.c"
--'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
-|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
--'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
-|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
--'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
-|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
--'  6  17  ~/binary_trees/103-binary_tree_rotate_left.c
-|4,39,6,17,1663861339,"~/binary_trees/103-binary_tree_rotate_left.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  4  43  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,4,43,1663861309,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  0  ~/binary_trees/104-binary_tree_rotate_right.c
-|4,39,1,0,1663861292,"~/binary_trees/104-binary_tree_rotate_right.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  24  ~/binary_trees/11-binary_tree_size.c
-|4,39,1,24,1663861260,"~/binary_trees/11-binary_tree_size.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  1  23  ~/binary_trees/110-binary_tree_is_bst.c
-|4,39,1,23,1663861201,"~/binary_trees/110-binary_tree_is_bst.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
--'  4  38  ~/binary_trees/111-bst_insert.c
-|4,39,4,38,1663861141,"~/binary_trees/111-bst_insert.c"
+-'  1  9  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,39,1,9,1664384064,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+-'  11  0  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,39,11,0,1664383980,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+-'  11  0  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,39,11,0,1664383980,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+-'  1  0  ~/AirBnB_clone/.git/COMMIT_EDITMSG
+|4,39,1,0,1664383894,"~/AirBnB_clone/.git/COMMIT_EDITMSG"
+-'  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,39,1,0,1664383237,"~/AirBnB_clone/.git/MERGE_MSG"
+-'  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,39,1,0,1664383237,"~/AirBnB_clone/.git/MERGE_MSG"
+-'  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,39,1,0,1664383237,"~/AirBnB_clone/.git/MERGE_MSG"
+-'  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,39,1,0,1664383237,"~/AirBnB_clone/.git/MERGE_MSG"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664383014,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  2  0  ~/AirBnB_clone/web_static/images/image
+|4,39,2,0,1664375634,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  0  ~/AirBnB_clone/web_static/images/image
+|4,39,1,0,1664375625,"~/AirBnB_clone/web_static/images/image"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  27  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,27,1664374262,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
+-'  1  0  ~/AirBnB_clone/web_static/styles/102-common.css
+|4,39,1,0,1664374234,"~/AirBnB_clone/web_static/styles/102-common.css"
 
 # History of marks within files (newest to oldest):
 
-> ~/binary_trees/1-binary_tree_insert_left.c
-	*	1663861965	0
-	"	6	38
-	^	6	39
-	.	4	29
-	+	1	702
-	+	34	0
-	+	4	29
+> ~/AirBnB_clone/.git/COMMIT_EDITMSG
+	*	1664384063	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	11	1
+	+	12	0
+	+	3	0
+	+	1	9
 
-> ~/binary_trees/103-binary_tree_rotate_left.c
-	*	1663861336	0
-	"	6	17
-	^	6	18
-	.	4	32
-	+	29	0
-	+	4	32
+> ~/AirBnB_clone/.git/MERGE_MSG
+	*	1664383235	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
-> ~/binary_trees/104-binary_tree_rotate_right.c
-	*	1663861308	0
-	"	4	43
-	^	4	44
-	.	4	44
-	+	29	0
-	+	4	44
+> ~/AirBnB_clone/web_static/images/image
+	*	1664383004	0
+	"	2	0
+	^	2	0
+	.	1	3
+	+	1	3
 
-> ~/binary_trees/11-binary_tree_size.c
-	*	1663861259	0
-	"	1	24
-	^	1	25
-	.	5	25
-	+	35	0
-	+	25	37
-	+	5	25
-
-> ~/binary_trees/110-binary_tree_is_bst.c
-	*	1663861200	0
-	"	1	23
-	^	1	24
-	.	5	23
-	+	35	0
-	+	25	36
-	+	5	23
-
-> ~/binary_trees/111-bst_insert.c
-	*	1663861139	0
-	"	4	38
-	^	4	39
-	.	4	39
-	+	33	0
-	+	4	39
-
-> ~/binary_trees/112-array_to_bst.c
-	*	1663861090	0
-	"	4	38
-	^	4	39
-	.	4	39
-	+	33	0
-	+	4	39
-
-> ~/binary_trees/113-bst_search.c
-	*	1663861037	0
-	"	4	33
-	^	4	34
-	.	4	34
-	+	22	0
-	+	4	34
-
-> ~/binary_trees/114-bst_remove.c
-	*	1663860965	0
-	"	3	37
-	^	9	45
-	.	9	45
-	+	99	0
-	+	87	30
-	+	66	40
-	+	22	30
-	+	9	45
-
-> ~/binary_trees/115-O
-	*	1663860855	0
-	"	3	8
-	^	3	9
-	.	3	9
-	+	3	9
-
-> ~/binary_trees/12-binary_tree_leaves.c
-	*	1663860812	0
-	"	4	67
-	^	4	68
-	.	4	39
-	+	19	0
-	+	4	39
-
-> ~/binary_trees/120-binary_tree_is_avl.c
-	*	1663860760	0
-	"	1	24
-	^	1	25
-	.	9	35
-	+	65	0
-	+	55	45
-	+	28	40
-	+	9	35
-
-> ~/binary_trees/121-avl_insert.c
-	*	1663860557	0
-	"	1	24
-	^	1	25
-	.	11	28
-	+	111	0
-	+	92	25
-	+	41	30
-	+	30	21
-	+	11	28
-
-> ~/binary_trees/122-array_to_avl.c
-	*	1663860430	0
-	"	4	30
-	^	4	31
-	.	4	31
-	+	33	0
-	+	4	31
-
-> ~/binary_trees/125-O
-	*	1663860358	0
-	"	3	8
-	^	3	9
-	.	3	8
-	+	3	8
-
-> ~/binary_trees/13-binary_tree_nodes.c
-	*	1663860326	0
-	"	6	20
-	^	6	21
-	.	6	21
-	+	26	0
-	+	4	36
-	+	6	21
-
-> ~/binary_trees/135-O
-	*	1663860266	0
-	"	1	8
-	^	1	9
-	.	3	8
-	+	3	8
-
-> ~/binary_trees/14-binary_tree_balance.c
-	*	1663860194	0
-	"	1	24
-	^	1	25
-	.	4	27
-	+	38	0
-	+	22	40
-	+	4	27
-
-> ~/binary_trees/15-binary_tree_is_full.c
-	*	1663860128	0
-	"	4	62
-	^	4	63
-	.	4	33
-	+	19	0
-	+	4	33
-
-> ~/binary_trees/16-binary_tree_is_perfect.c
-	*	1663860064	0
-	"	2	29
-	^	2	30
-	.	5	29
+> ~/AirBnB_clone/web_static/styles/102-common.css
+	*	1664374260	0
+	"	1	27
+	^	1	28
+	.	1	18
+	+	32	0
 	+	28	0
-	+	5	29
+	+	1	18
 
-> ~/binary_trees/17-binary_tree_sibling.c
-	*	1663859971	0
-	"	4	31
-	^	4	32
-	.	4	32
-	+	19	0
-	+	4	32
+> ~/AirBnB_clone/web_static/styles/101-places.css
+	*	1664373204	0
+	"	102	22
+	^	102	23
+	.	225	0
+	+	225	0
 
-> ~/binary_trees/18-binary_tree_uncle.c
-	*	1663859915	0
-	"	6	26
-	^	6	27
-	.	4	26
-	+	21	0
-	+	4	26
+> ~/AirBnB_clone/web_static/styles/100-places.css
+	*	1664370208	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	216	0
+	+	73	21
+	+	62	15
+	+	45	17
+	+	30	27
+	+	2	0
 
-> ~/binary_trees/2-binary_tree_insert_right.c
-	*	1663859842	0
-	"	8	2
-	^	8	3
-	.	4	39
-	+	38	0
-	+	4	39
+> ~/AirBnB_clone/tests/test_models/test_amenity.py
+	*	1664367161	0
+	"	189	16
+	^	189	17
+	.	2	3
+	+	2	3
 
-> ~/binary_trees/3-binary_tree_delete.c
-	*	1663859776	0
-	"	4	32
-	^	4	33
-	.	4	33
-	+	15	0
-	+	4	33
+> ~/alx-low_level_programming/0x1C-makefiles/.gitignore
+	*	1664364966	0
+	"	7	8
+	^	7	9
+	.	7	8
+	+	7	8
 
-> ~/binary_trees/4-binary_tree_is_leaf.c
-	*	1663859723	0
-	"	4	36
-	^	4	37
-	.	4	28
-	+	15	0
-	+	4	28
+> ~/alx-low_level_programming/0x1C-makefiles/5-island_perimeter.py
+	*	1664364688	0
+	"	4	46
+	^	4	47
+	.	4	46
+	+	19	13
+	+	3	3
+	+	4	46
 
-> ~/binary_trees/5-binary_tree_is_root.c
-	*	1663859666	0
-	"	6	35
-	^	6	36
-	.	4	30
-	+	15	0
-	+	4	30
+> ~/alx-low_level_programming/0x1C-makefiles/4-Makefile
+	*	1664364589	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	15	13
+	+	1	0
 
-> ~/binary_trees/6-binary_tree_preorder.c
-	*	1663859576	0
+> ~/alx-low_level_programming/0x1C-makefiles/100-Makefile
+	*	1664364480	0
+	"	20	13
+	^	20	14
+	.	20	13
+	+	20	13
+
+> ~/alx-low_level_programming/0x1C-makefiles/2-Makefile
+	*	1664364447	0
+	"	2	0
+	^	2	0
+	.	1	0
+	+	7	23
+	+	1	0
+
+> ~/alx-low_level_programming/0x1C-makefiles/3-Makefile
+	*	1664364240	0
+	"	14	13
+	^	14	14
+	.	14	13
+	+	14	13
+
+> ~/alx-low_level_programming/0x1C-makefiles/1-Makefile
+	*	1664364151	0
 	"	6	22
 	^	6	23
-	.	4	37
-	+	16	0
-	+	4	37
-
-> ~/binary_trees/7-binary_tree_inorder.c
-	*	1663859521	0
-	"	11	28
-	^	11	29
-	.	4	36
-	+	16	0
-	+	4	36
-
-> ~/binary_trees/8-binary_tree_postorder.c
-	*	1663859463	0
-	"	4	37
-	^	4	38
-	.	4	38
-	+	16	0
-	+	4	38
-
-> ~/binary_trees/9-binary_tree_height.c
-	*	1663859351	0
-	"	5	17
-	^	5	18
-	.	4	34
-	+	18	0
-	+	4	34
-
-> ~/binary_trees/101-binary_tree_levelorder.c
-	*	1663858502	0
-	"	11	59
-	^	11	60
-	.	11	22
-	+	122	0
-	+	101	31
-	+	103	18
-	+	104	10
-	+	32	21
-	+	11	22
-
-> ~/binary_trees/102-binary_tree_is_complete.c
-	*	1663858339	0
-	"	10	39
-	^	10	40
 	.	6	22
-	+	37	0
 	+	6	22
 
-> ~/binary_trees/100-binary_trees_ancestor.c
-	*	1663858246	0
-	"	6	18
-	^	6	19
-	.	6	30
-	+	32	0
-	+	4	34
-	+	5	29
-	+	6	30
+> ~/alx-low_level_programming/0x1C-makefiles/0-Makefile
+	*	1664363967	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	4	0
 
-> ~/binary_trees/0-binary_tree_node.c
-	*	1663858127	0
-	"	7	27
-	^	7	20
-	.	7	19
-	+	23	0
-	+	4	25
-	+	7	19
+> ~/alx-higher_level_programming/0x11-python-network_1/10-my_github.py
+	*	1664282176	0
+	"	3	81
+	^	3	82
+	.	3	15
+	+	20	20
+	+	2	3
+	+	3	15
 
-> ~/binary_trees/10-binary_tree_depth.c
-	*	1663858058	0
-	"	16	0
-	^	16	1
-	.	16	0
-	+	16	0
+> ~/alx-higher_level_programming/0x11-python-network_1/100-github_commits.py
+	*	1664281945	0
+	"	3	13
+	^	3	14
+	.	3	14
+	+	17	34
+	+	1	18
+	+	3	14
 
-> ~/binary_trees/binary_trees.h
-	*	1663857887	0
-	"	94	28
-	^	94	29
-	.	94	28
-	+	94	28
+> ~/alx-higher_level_programming/0x11-python-network_1/8-json_api.py
+	*	1664281759	0
+	"	3	3
+	^	3	4
+	.	3	4
+	+	22	32
+	+	3	4
 
-> ~/binary_trees/README.md
-	*	1663857712	0
-	"	1	13
-	^	1	14
-	.	2	0
-	+	1	14
-	+	184	20
+> ~/alx-higher_level_programming/0x11-python-network_1/7-error_code.py
+	*	1664281700	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	16	22
+	+	1	18
+	+	3	16
+
+> ~/alx-higher_level_programming/0x11-python-network_1/cp
+	*	1664281644	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	16	22
+	+	3	16
+
+> ~/alx-higher_level_programming/0x11-python-network_1/7-erroe_code.py
+	*	1664281573	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	16	22
+	+	3	16
+
+> ~/alx-higher_level_programming/0x11-python-network_1/6-post_email.py
+	*	1664281509	0
+	"	3	17
+	^	3	18
+	.	3	18
+	+	14	19
+	+	2	4
+	+	3	18
+
+> ~/alx-higher_level_programming/0x11-python-network_1/5-hbtn_header.py
+	*	1664281388	0
+	"	3	13
+	^	3	14
+	.	3	14
+	+	16	18
+	+	1	18
+	+	2	2
+	+	1	18
+	+	3	14
+
+> ~/alx-higher_level_programming/0x11-python-network_1/4-hbtn_status.py
+	*	1664281297	0
+	"	3	23
+	^	3	24
+	.	3	16
+	+	13	39
+	+	3	16
+
+> ~/alx-higher_level_programming/0x11-python-network_1/3-error_code.py
+	*	1664281208	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	18	35
+	+	3	16
+
+> ~/alx-higher_level_programming/0x11-python-network_1/2-post_email.py
+	*	1664281067	0
+	"	3	12
+	^	3	13
+	.	3	12
+	+	17	42
+	+	3	12
+
+> ~/alx-higher_level_programming/0x11-python-network_1/1-hbtn_header.py
+	*	1664280968	0
+	"	3	16
+	^	3	17
+	.	3	17
+	+	13	46
+	+	3	17
+
+> ~/alx-higher_level_programming/0x11-python-network_1/0-hbtn_status.py
+	*	1664280864	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	14	59
+	+	2	6
+
+> ~/alx-higher_level_programming/0x11-python-network_1/README.md
+	*	1664280763	0
+	"	3	91
+	^	3	92
+	.	3	91
+	+	1	32
+	+	11	48
+	+	1	28
+	+	3	91
+
+> ~/alx-higher_level_programming/0x10-python-network_0/6-peak.txt
+	*	1664279969	0
+	"	1	3
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/alx-higher_level_programming/0x10-python-network_0/6-peak.py
+	*	1664279942	0
+	"	2	28
+	^	2	29
+	.	2	21
+	+	23	51
+	+	2	11
+	+	6	7
+	+	5	0
+	+	2	40
+	+	6	14
+	+	2	21
+
+> ~/alx-higher_level_programming/0x10-python-network_0/5-post_params.sh
+	*	1664279864	0
+	"	2	71
+	^	2	72
+	.	2	71
+	+	3	83
+	+	2	71
+
+> ~/alx-higher_level_programming/0x10-python-network_0/4-header.sh
+	*	1664279842	0
+	"	2	41
+	^	2	42
+	.	2	42
+	+	3	35
+	+	2	42
+
+> ~/alx-higher_level_programming/0x10-python-network_0/3-methods.sh
+	*	1664279812	0
+	"	2	38
+	^	2	43
+	.	2	42
+	+	3	44
+	+	2	42
+
+> ~/alx-higher_level_programming/0x10-python-network_0/2-delete.sh
+	*	1664279790	0
+	"	2	42
+	^	2	43
+	.	2	42
+	+	3	19
+	+	2	42
+
+> ~/alx-higher_level_programming/0x10-python-network_0/1-body.sh
+	*	1664279772	0
+	"	2	62
+	^	2	63
+	.	2	62
+	+	3	12
+	+	2	62
+
+> ~/alx-higher_level_programming/0x10-python-network_0/0-body_size.sh
+	*	1664279758	0
+	"	2	81
+	^	2	82
+	.	2	81
+	+	3	48
+	+	2	81
+
+> ~/alx-higher_level_programming/0x10-python-network_0/102-catch_me.sh
+	*	1664279088	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	3	79
+	+	2	15
+
+> ~/alx-higher_level_programming/0x10-python-network_0/101-post_json.sh
+	*	1664279017	0
+	"	2	88
+	^	2	89
+	.	2	89
+	+	3	64
+	+	2	89
+
+> ~/alx-higher_level_programming/0x10-python-network_0/100_status_code.sh
+	*	1664278886	0
+	"	2	61
+	^	2	62
+	.	2	62
+	+	3	42
+	+	2	62
+
+> ~/alx-higher_level_programming/0x10-python-network_0/README.md
+	*	1664278545	0
+	"	3	93
+	^	3	94
+	.	3	94
+	+	21	74
+	+	1	60
+	+	1	58
+	+	1	32
+	+	1	52
+	+	3	107
+	+	1	52
+	+	3	94
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
+	*	1664277076	0
+	"	2	26
+	^	2	27
+	.	2	26
+	+	22	72
+	+	2	26
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
+	*	1664277005	0
+	"	21	49
+	^	21	50
+	.	2	24
+	+	21	70
+	+	2	24
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
+	*	1664276923	0
+	"	20	25
+	^	20	26
+	.	3	25
+	+	20	45
+	+	3	25
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
+	*	1664276804	0
+	"	14	25
+	^	14	26
+	.	2	25
+	+	21	70
+	+	2	3
+	+	1	3
+	+	2	25
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py
+	*	1664276608	0
+	"	3	4
+	^	3	5
+	.	3	4
+	+	24	66
+	+	3	4
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/13-model_state_delete_a.py
+	*	1664276508	0
+	"	4	46
+	^	4	47
+	.	4	23
+	+	24	19
+	+	3	14
+	+	4	23
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py
+	*	1664276428	0
+	"	4	42
+	^	4	43
+	.	4	42
+	+	23	19
+	+	3	14
+	+	4	42
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/11-model_state_insert.py
+	*	1664276205	0
+	"	3	65
+	^	3	66
+	.	3	65
+	+	23	22
+	+	3	65
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/10-model_state_my_get.py
+	*	1664276148	0
+	"	4	33
+	^	4	34
+	.	4	33
+	+	29	25
+	+	3	26
+	+	4	33
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
+	*	1664276056	0
+	"	4	33
+	^	4	34
+	.	4	10
+	+	23	55
+	+	4	10
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py
+	*	1664276002	0
+	"	3	63
+	^	3	64
+	.	3	63
+	+	24	51
+	+	3	63
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py
+	*	1664275927	0
+	"	3	57
+	^	3	58
+	.	3	57
+	+	21	51
+	+	3	57
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/6-model_state.py
+	*	1664275783	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	11	35
+	+	2	8
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/5-filter_cities.py
+	*	1664275207	0
+	"	4	20
+	^	4	21
+	.	4	21
+	+	21	75
+	+	4	21
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py
+	*	1664275134	0
+	"	4	28
+	^	4	29
+	.	4	28
+	+	18	70
+	+	3	70
+	+	4	28
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/4-cities_by_state.py
+	*	1664275076	0
+	"	3	47
+	^	3	48
+	.	3	47
+	+	19	41
+	+	3	47
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/2-my_filter_states.py
+	*	1664274880	0
+	"	3	70
+	^	3	71
+	.	3	70
+	+	20	43
+	+	3	70
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/1-filter_state.py
+	*	1664272784	0
+	"	12	65
+	^	12	66
+	.	12	65
+	+	12	65
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/1-filter_states.py
+	*	1664272728	0
+	"	15	65
+	^	15	66
+	.	15	65
+	+	1	367
+	+	1	100
+	+	15	65
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/0-select_states.sql
+	*	1664272327	0
+	"	9	97
+	^	9	98
+	.	9	97
+	+	9	97
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/0-select_states.py
+	*	1664271371	0
+	"	16	43
+	^	16	44
+	.	16	43
+	+	16	43
+
+> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
+	*	1664270696	0
+	"	4	90
+	^	5	0
+	.	2	32
+	+	11	47
+	+	2	66
+	+	4	91
+	+	2	32
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/README.md
+	*	1664227874	0
+	"	11	40
+	^	11	41
+	.	3	2
+	+	11	40
+	+	3	65
+	+	1	32
 	+	2	0
+	+	1	66
+	+	3	2
 
-> ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-	*	1663853794	0
-	"	14	0
-	^	14	1
-	.	8	10
-	+	1	35
-	+	36	0
-	+	5	29
-	+	7	13
-	+	8	10
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/102-concat.js
+	*	1664227723	0
+	"	5	40
+	^	5	41
+	.	6	0
+	+	6	0
 
-> ~/AirBnB_clone/web_static/0-index.html
-	*	1660556922	0
-	"	16	4
-	^	16	7
-	.	16	6
-	+	16	6
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/101-sorted.js
+	*	1664227668	0
+	"	10	20
+	^	10	21
+	.	10	21
+	+	10	21
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/103-max_state.sql
-	*	1660165097	0
-	"	2	11
-	^	2	0
-	.	2	0
-	+	2	0
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/101-data.js
+	*	1664227572	0
+	"	65	1
+	^	65	2
+	.	65	1
+	+	65	1
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/102-top_city.sql
-	*	1660165038	0
-	"	3	24
-	^	3	25
-	.	3	0
-	+	1	34
-	+	2	0
-	+	3	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/101-avg_temperatures.sql
-	*	1660164997	0
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/0-rectangle.js
+	*	1664227488	0
 	"	2	35
 	^	2	36
 	.	2	35
-	+	2	0
-	+	1	31
-	+	2	0
-	+	1	34
+	+	1	80
 	+	2	35
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/100-move_to_utf8.sql
-	*	1660164956	0
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/100-map.js
+	*	1664227459	0
+	"	4	54
+	^	4	55
+	.	4	54
+	+	4	54
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/100-data.js
+	*	1664227424	0
+	"	2	30
+	^	2	31
+	.	2	30
+	+	2	30
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/10-converter.js
+	*	1664227379	0
+	"	2	73
+	^	2	74
+	.	2	73
+	+	2	73
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/9-logme.js
+	*	1664227324	0
+	"	3	71
+	^	3	72
+	.	3	71
+	+	3	71
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/8-esrever.js
+	*	1664227265	0
+	"	6	8
+	^	7	2
+	.	7	1
+	+	7	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/7-occurrences.js
+	*	1664227199	0
+	"	1	1
+	^	1	2
+	.	4	1
+	+	4	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/6-square.js
+	*	1664227129	0
+	"	10	1
+	^	10	2
+	.	10	1
+	+	10	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/5-square.js
+	*	1664227097	0
+	"	35	1
+	^	35	2
+	.	35	1
+	+	35	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-rectangle.js
+	*	1664227029	0
+	"	29	1
+	^	29	2
+	.	29	1
+	+	29	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/3-rectangle.js
+	*	1664226968	0
+	"	18	1
+	^	18	2
+	.	19	0
+	+	18	45
+	+	10	0
+	+	19	0
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/2-rectangle.js
+	*	1664226884	0
+	"	9	1
+	^	9	2
+	.	9	1
+	+	9	1
+
+> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/1-rectangle.js
+	*	1664226755	0
+	"	7	1
+	^	7	2
+	.	7	1
+	+	1	58
+	+	1	11
+	+	7	1
+
+> ~/alx-higher_level_programming/0x12-javascript-warm_up/test_files/100-main.js
+	*	1664167905	0
+	"	1	0
+
+> ~/alx-higher_level_programming/0x12-javascript-warm_up/100-let_me_const.js
+	*	1664167841	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/alx-higher_level_programming/0x12-javascript-warm_up/0-javascript_is_amazing.js
+	*	1664166754	0
+	"	2	37
+	^	2	38
+	.	2	37
+	+	2	37
+
+> ~/alx-higher_level_programming/test_files/13-main.js
+	*	1664165815	0
+	"	3	22
+	^	3	23
+	.	3	22
+	+	3	22
+
+> ~/alx-higher_level_programming/test_files/100-main.js
+	*	1664165754	0
+	"	4	17
+	^	4	18
+	.	4	18
+	+	4	18
+
+> ~/alx-system_engineering-devops/0x0C-web_server/7-puppet_install_nginx_
+	*	1664113213	0
+	"	79	0
+	^	79	1
+	.	79	0
+	+	79	0
+
+> ~/alx-system_engineering-devops/0x0C-web_server/7-puppet_install_nginx__web_server.pp
+	*	1664113018	0
+	"	1	0
+	^	1	1
+	.	79	0
+	+	79	0
+
+> ~/alx-system_engineering-devops/0x0C-web_server/puppe
+	*	1664113002	0
+	"	1	0
+
+> /etc/nginx/sites-available/default
+	*	1664112224	0
+	"	24	56
+	^	24	57
+	.	24	56
+	+	25	0
+	+	2	57
+	+	24	56
+
+> /var/www/html/index.nginx-debian.html
+	*	1664102118	0
+	"	1	11
+	^	1	12
+	.	1	12
+	+	1	12
+
+> /var/www/html/index
+	*	1664102061	0
+	"	1	14
+	^	1	15
+
+> ~/alx-system_engineering-devops/0x0C-web_server/1-install_nginx_web_server
+	*	1664101839	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	8	23
+	+	2	0
+	+	5	0
+
+> ~/alx-system_engineering-devops/0x0C-web_server/2-setup_a_domain_name
+	*	1664099606	0
 	"	1	14
 	^	1	15
 	.	1	14
 	+	1	14
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/12-no_cheating.sql
-	*	1660164912	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	2	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/16-no_link.sql
-	*	1660164851	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/15-groups.sql
-	*	1660164833	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/14-average.sql
-	*	1660164826	0
-	"	1	8
-	^	1	9
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/13-change_class.sql
-	*	1660164801	0
-	"	1	45
-	^	1	46
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/11-best_score.sql
-	*	1660163920	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	2	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/10-top_score.sql
-	*	1660163903	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/9-full_creation.sql
-	*	1660163859	0
-	"	1	40
-	^	1	41
-	.	1	40
-	+	1	40
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/8-count_89.sql
-	*	1660163835	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/7-insert_value.sql
-	*	1660163823	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	2	0
-	+	3	0
-	+	4	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/6-list_values.sql
-	*	1660163788	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/5-full_table.sql
-	*	1660163735	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	2	0
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/4-first_table.sql
-	*	1660163714	0
-	"	1	55
-	^	1	56
-
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/3-list_tables.sql
-	*	1660163693	0
-	"	1	18
-	^	1	19
-	.	1	19
+> ~/alx-system_engineering-devops/0x08-networking_basics_2/0-change_your_home_IP
+	*	1664098580	0
+	"	8	27
+	^	8	28
+	.	8	27
+	+	1	285
 	+	1	19
+	+	8	27
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/2-remove_database.sql
-	*	1660163667	0
-	"	1	42
-	^	1	43
-	.	1	11
-	+	1	11
+> ~/alx-system_engineering-devops/0x07-networking_basics/0-OSI_model
+	*	1664098545	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	2	0
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/1-create_database_if_missing.sql
-	*	1660163442	0
-	"	2	9
-	^	2	10
+> ~/alx-system_engineering-devops/0x0B-ssh/school.pub
+	*	1664097359	0
+	"	1	579
+	^	1	580
+	.	1	579
+	+	1	579
 
-> ~/alx-higher_level_programming/0x0D-SQL_introduction/0-list_databases.sql
-	*	1660163418	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	1	18
-	+	2	8
-	+	2	14
+> ~/alx-system_engineering-devops/0x0B-ssh/README.md
+	*	1664097177	0
+	"	3	47
+	^	3	48
+	.	3	46
+	+	1	22
+	+	3	63
+	+	1	6
+	+	3	46
 
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/103-rating_genres.sql
-	*	1660159348	0
-	"	1	29
-	^	1	30
-	.	1	29
-	+	1	29
+> ~/alx-system_engineering-devops/0x0B-ssh/4-puppet_ssh_config.pp
+	*	1664097033	0
+	"	5	0
+	^	5	1
+	.	5	0
+	+	5	0
 
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/102-rating_shows.sql
-	*	1660159323	0
-	"	1	29
-	^	1	30
-	.	1	29
-	+	1	29
+> ~/alx-system_engineering-devops/0x0B-ssh/2-ssh_config
+	*	1664096993	0
+	"	6	18
+	^	6	19
+	.	6	18
+	+	8	24
+	+	6	18
 
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/101-not_a_comedy.sql
-	*	1660159302	0
-	"	1	29
-	^	1	30
-	.	1	29
-	+	1	29
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/100-not_my_genres.sql
-	*	1660159259	0
-	"	1	3
-	^	1	4
-	.	1	4
-	+	1	4
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/15-comedy_only.sql
-	*	1660159225	0
-	"	1	29
-	^	1	30
-	.	1	29
-	+	1	29
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/14-my_genres.sql
-	*	1660159182	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/13-count_shows_by_genre.sql
-	*	1660159162	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/12-no_genre.sql
-	*	1660159130	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/11-genre_id_all_shows.sql
-	*	1660159109	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/10-genre_id_by_show.sql
-	*	1660159088	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/10
-	*	1660159058	0
-	"	1	0
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/9-cities_by_state_join.sql
-	*	1660159043	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/8-cities_of_california_subquery.sql
-	*	1660158999	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/7-cities.sql
-	*	1660158977	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/6-states.sql
-	*	1660158955	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/5-unique_id.sql
-	*	1660158928	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/4-never_empty.sql
-	*	1660158898	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/3-force_name.sql
-	*	1660158880	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/2-create_read_user.sql
-	*	1660158830	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/1-create_user.sql
-	*	1660158793	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/alx-higher_level_programming/0x0E-SQL_more_queries/0-privileges.sql
-	*	1660158189	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
-
-> ~/AirBnB_clone/models/base_model.py
-	*	1659905386	0
-	"	1	0
-
-> ~/AirBnB_clone/models/user.py
-	*	1659905375	0
-	"	1	0
-
-> ~/AirBnB_clone/models/review.py
-	*	1659905359	0
-	"	1	0
-
-> ~/AirBnB_clone/models/amenity.py
-	*	1659905347	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	229
-	+	1	0
-
-> ~/AirBnB_clone/models/city.py
-	*	1659905323	0
-	"	1	0
-
-> ~/AirBnB_clone/models/amaenity.py
-	*	1659904918	0
-	"	1	0
-
-> ~/AirBnB_clone/web_static/cd
-	*	1659904794	0
-	"	1	0
-
-> ~/AirBnB_clone/web_static/README.md
-	*	1659904652	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
-
-> ~/AirBnB_clone/web_static/8-index.html
-	*	1659903773	0
-	"	91	10
-	^	91	11
-	.	35	20
-	+	142	6
-	+	22	26
-	+	25	20
-	+	28	20
-	+	27	16
-	+	32	15
-	+	34	15
-	+	35	20
-
-> ~/AirBnB_clone/web_static/7-index.html
-	*	1659903512	0
-	"	73	6
-	^	73	7
-	.	35	34
-	+	73	6
-	+	11	16
-	+	27	29
-	+	25	27
-	+	22	30
-	+	32	22
-	+	34	35
-	+	35	34
-
-> ~/AirBnB_clone/web_static/6-index.html
-	*	1659903109	0
-	"	1	6
-	^	1	7
-	.	60	6
-	+	60	6
-
-> ~/AirBnB_clone/web_static/5-index.html
-	*	1659903062	0
-	"	38	6
-	^	38	7
-	.	38	6
-	+	38	6
-
-> ~/AirBnB_clone/web_static/4-index.html
-	*	1659903030	0
-	"	30	6
-	^	30	7
-	.	30	6
-	+	30	6
-
-> ~/AirBnB_clone/web_static/3-index.html
-	*	1659903003	0
-	"	22	6
-	^	22	7
-	.	22	6
-	+	22	6
-
-> ~/AirBnB_clone/web_static/2-index.html
-	*	1659902972	0
-	"	19	6
-	^	19	7
-	.	19	6
-	+	19	6
-
-> ~/AirBnB_clone/web_static/1-index.html
-	*	1659902922	0
-	"	22	6
-	^	22	7
-	.	22	6
-	+	22	6
-
-> ~/AirBnB_clone/tests/test_models/test_user.py
-	*	1659902745	0
-	"	1	17
-	^	1	18
-	.	117	42
-	+	117	42
-
-> ~/AirBnB_clone/tests/test_models/test_state.py
-	*	1659902689	0
-	"	1	17
-	^	1	18
-	.	99	43
-	+	99	43
-
-> ~/AirBnB_clone/tests/test_models/test_review.py
-	*	1659902632	0
-	"	1	17
-	^	1	18
-	.	111	44
-	+	111	44
+> ~/alx-system_engineering-devops/0x0B-ssh/100-puppet_ssh_config.pp
+	*	1664096922	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	16	0
